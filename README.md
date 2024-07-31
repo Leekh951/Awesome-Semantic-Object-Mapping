@@ -17,7 +17,7 @@
   - VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks. [2024 ICRA]\
 [\[PDF\]](https://arxiv.org/pdf/2402.13609.pdf) [\[Code\]](https://github.com/yutongwangBIT/VOOM)
   - ObVi-SLAM: Long-Term Object-Visual SLAM. [2024 RA-L]\
- [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423794)[\[Code\]](https://github.com/ut-amrl/ObVi-SLAM) [\[Video\]](https://youtu.be/quJOgnEdaZ0)
+ [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423794) [\[Code\]](https://github.com/ut-amrl/ObVi-SLAM) [\[Video\]](https://youtu.be/quJOgnEdaZ0)
 #### 2023
 
   - An Object SLAM Framework for Association, Mapping, and High-Level Tasks. [2023 T-RO]\
