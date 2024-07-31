@@ -6,9 +6,7 @@ This repository considers papers that optimize robot (camera) and object states 
 
 ## What is Semantic-Object SLAM?
 
-Metric-Semantic SLAM enhances traditional SLAM by combining geometric mapping with semantic data, allowing robots to create more accurate and meaningful maps. In a similar vein, Object SLAM tackles the problem of Simultaneous Localization and Mapping (SLAM) by building a 3D object-level global environment map from local observations. This approach uses object detection, pose estimation, and instance segmentation networks as virtual sensors within a sensor fusion framework to create the map.
 
-By representing the 3D map with objects, it becomes easier to attribute semantics to landmarks, facilitating higher-level tasks such as object manipulation, motion planning, and task planning. This method also compresses the map by focusing computational and memory resources on meaningful regions, which is beneficial for tasks like distributed map building. Thus, integrating the concepts of Metric-Semantic SLAM and Object SLAM results in a comprehensive mapping technique that enhances a robot's ability to navigate, understand, and interact with its environment efficiently.
 
 
 ## Papers
@@ -25,6 +23,8 @@ By representing the 3D map with objects, it becomes easier to attribute semantic
 
   - An Object SLAM Framework for Association, Mapping, and High-Level Tasks. [2023 T-RO]\
 [\[PDF\]](https://arxiv.org/pdf/2305.07299.pdf)
+  - Object SLAM With Robust Quadric Initialization and Mapping for Dynamic Outdoors. [2023 T-ITS] \
+[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149129)
   - QISO-SLAM: Object-Oriented SLAM Using Dual Quadrics as Landmarks Based on Instance Segmentation [2023 RA-L] \
 [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056983)
   - BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects. \
