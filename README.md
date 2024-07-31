@@ -1,35 +1,19 @@
-# Awesome Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of Object SLAM papers and resources, inspired by [awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations).
-
-## Disclaimer
-
-This list *does not aim to be exhaustive*. In this list, we consider papers that **jointly** optimize robot (camera) and object states, where object states typically include object poses and object shape parameters.
-
-For more general SLAM papers, please refer to [awesome-visual-SLAM](https://github.com/tzutalin/awesome-visual-slam) and [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM).
-
-This repo is mainitained by [Ziqi Lu](https://github.com/520xyxyzq) and [Akash Sharma](https://github.com/akashsharma02). You are very welcome to contribute to this repo. If you spot anything wrong or missing, please feel free to [submit a pull request](https://github.com/520xyxyzq/awesome-object-SLAM/pulls) or contact the maintainers.
-
-## Table of Contents
-
-- [What is Object SLAM](#what-is-object-slam?)
-- [Papers](#papers)
-  - [Parametric Object Representation](#parametric-object-representation-cubesquadrics6dof-poseetc)
-  - [Field Object Representation](#field-object-representation-neural-fieldsdense-gridsetc)
-  - [Inference Methods for Object SLAM](#inference-methods-for-object-slam)
-  - [Reviews](#reviews)
-- [Resources](#resources)
-  - [Datasets](#datasets)
+# Awesome Semantic-Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## What is Object SLAM?
+This repository considers papers that optimize robot (camera) and object states based on Monocular, RGB-D, and LiDAR. Here, object states generally include object poses and object shape parameters.
 
-Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation and Mapping (SLAM) by building a _3D object-level global environment map from local observations_. To build such a map of the environment, object detection, pose estimation and instance segmentation networks are typically used as virtual sensors in a sensor fusion framework. Representing the 3D map with objects is interesting as it is easy to ascribe semantics to the landmarks to perform higher-level tasks such as object manipulation, motion and task planning, etc. It compresses the map by focusing compute and memory for meaningful regions, and map abstraction is also useful for other tasks such as distributed map building.
+
+## What is Semantic-Object SLAM?
+
+Metric-Semantic SLAM enhances traditional SLAM by combining geometric mapping with semantic data, allowing robots to create more accurate and meaningful maps. In a similar vein, Object SLAM tackles the problem of Simultaneous Localization and Mapping (SLAM) by building a 3D object-level global environment map from local observations. This approach uses object detection, pose estimation, and instance segmentation networks as virtual sensors within a sensor fusion framework to create the map.
+
+By representing the 3D map with objects, it becomes easier to attribute semantics to landmarks, facilitating higher-level tasks such as object manipulation, motion planning, and task planning. This method also compresses the map by focusing computational and memory resources on meaningful regions, which is beneficial for tasks like distributed map building. Thus, integrating the concepts of Metric-Semantic SLAM and Object SLAM results in a comprehensive mapping technique that enhances a robot's ability to navigate, understand, and interact with its environment efficiently.
 
 
 ## Papers
 
-### Parametric Object Representation (Cubes/Quadrics/6DoF Pose/etc.)
+### Parametric Object Representation (Sparse object model)
 
 - #### 2024
   - Multi-Robot Object SLAM using Distributed Variational Inference. [\[PDF\]](https://arxiv.org/pdf/2404.18331) [\[Code\]](https://github.com/intrepidChw/distributed_msckf)
@@ -97,83 +81,7 @@ Object SLAM, loosely speaking tackles the problem of Simultaneous Localisation a
 
   - Object-based Visual SLAM: How Object Identity Informs Geometry. [\[PDF\]](https://dellaert.github.io/files/Selvatici08wvc.pdf)
 
-### Field Object Representation (Neural Fields/Dense Grids/etc.)
 
-- #### 2023
-
-  - NeuSE: Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects. [\[PDF\]](https://arxiv.org/abs/2303.07308) [\[Project Page\]](https://neuse-slam.github.io/neuse/)
-  - RO-MAP: Real-Time Multi-Object Mapping with Neural Radiance Fields. [\[PDF\]](https://arxiv.org/pdf/2304.05735.pdf) [\[Code\]](https://github.com/XiaoHan-Git/RO-MAP) [\[Video\]](https://www.youtube.com/watch?v=sFrLXPw40wU)
-  - vMAP: Vectorised Object Mapping for Neural Field SLAM. [\[PDF\]](https://arxiv.org/pdf/2302.01838.pdf) [\[Code\]](https://github.com/kxhit/vMAP) [\[Project Page\]](https://kxhit.github.io/vMAP) [\[Video\]](https://kxhit.github.io/media/vMAP/vmap_raw.mp4)
-
-- #### 2022
-
-  - Learning to Complete Object Shapes for Object-level Mapping in Dynamic Scenes. [\[PDF\]](https://arxiv.org/pdf/2208.05067.pdf) [\[Project Page\]](https://mlr.in.tum.de/research/projects/cosom)
-
-- #### 2021
-
-  - Compositional and Scalable Object SLAM. [\[PDF\]](https://akashsharma02.github.io/assets/pdf/Sharma21icra.pdf) [\[Code\]](https://github.com/rpl-cmu/object-slam)
-  - DSP-SLAM: Object Oriented SLAM with Deep Shape Priors. [\[PDF\]](https://arxiv.org/abs/2108.09481) [\[Code\]](https://github.com/JingwenWang95/DSP-SLAM) [\[Project Page\]](https://jingwenwang95.github.io/dsp-slam/)
-
-- #### 2020
-
-  - NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2004.04485.pdf) [\[Project Page\]](https://edgarsucar.github.io/NodeSLAM/)
-
-- #### 2019
-
-  - Deep-SLAM++: Object-Level RGBD SLAM Based on Class-Specific Deep Shape Priors. [\[PDF\]](https://arxiv.org/pdf/1907.09691.pdf)
-  - MID-Fusion: Octree-based Object-Level Multi-Instance Dynamic SLAM. [\[PDF\]](https://arxiv.org/pdf/1812.07976.pdf) [\[Video\]](https://www.youtube.com/watch?v=gturboNl9gg)
-
-- #### 2018
-
-  - Fusion++: Volumetric Object-Level SLAM. [\[PDF\]](https://arxiv.org/pdf/1808.08378.pdf) [\[Video\]](https://www.youtube.com/watch?v=2luKNC03x4k)
-  - MaskFusion: Real-Time Recognition, Tracking and Reconstruction of Multiple Moving Objects. [\[PDF\]](https://arxiv.org/pdf/1804.09194.pdf) [\[Code\]](https://github.com/martinruenz/maskfusion) [\[Project Page\]](http://visual.cs.ucl.ac.uk/pubs/maskfusion/index.html)
-
-- #### 2017
-
-  - Co-Fusion: : Real-time Segmentation, Tracking and Fusion of Multiple Objects. [\[PDF\]](http://visual.cs.ucl.ac.uk/pubs/cofusion/icra2017_co-fusion_web.pdf) [\[Code\]](https://github.com/martinruenz/co-fusion) [\[Project Page\]](http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html)
-
-### Inference Methods for Object SLAM
-
-- #### 2022
-
-  - Discrete-Continuous Smoothing and Mapping. [\[PDF\]](https://arxiv.org/abs/2204.11936) [\[Code\]](https://github.com/MarineRoboticsGroup/dcsam) [\[Video\]](https://www.youtube.com/watch?v=mUHOZRq2Cik&ab_channel=MITMarineRoboticsGroup)
-
-- #### 2021
-
-  - Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM. [\[PDF\]](https://arxiv.org/pdf/2107.09265.pdf) [\[Video\]](https://www.youtube.com/watch?v=506VSt0tq4o&ab_channel=MITMarineRoboticsGroup)
-
-- #### 2020
-
-  - Probabilistic Data Association via Mixture Models for Robust Semantic SLAM. [\[PDF\]](https://arxiv.org/pdf/1909.11213.pdf) [\[Video\]](https://www.youtube.com/watch?v=Eq_w8zOXCF4&ab_channel=MITMarineRoboticsGroup)
-
-- #### 2019
-
-  - EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2019/html/Strecke_EM-Fusion_Dynamic_Object-Level_SLAM_With_Probabilistic_Data_Association_ICCV_2019_paper.html) [\[Code\]](https://github.com/EmbodiedVision/emfusion) [\[Project Page\]](https://emfusion.is.tue.mpg.de/)
-  - Multimodal Semantic SLAM with Probabilistic Data Association. [\[PDF\]](https://dspace.mit.edu/bitstream/handle/1721.1/137995/doherty_icra2019_revised.pdf?sequence=2&isAllowed=y) [\[Video\]](https://www.youtube.com/watch?v=9hEonD8KDrs&ab_channel=MITMarineRoboticsGroup)
-
-- #### 2018
-
-  - A Unifying View of Geometry, Semantics, and Data Association in SLAM. [\[PDF\]](https://existentialrobotics.org/ref/Atanasov_SemanticSLAM_IJCAI18.pdf) [\[Video\]](https://existentialrobotics.org/vid/Bowman_SemanticSLAM_ICRA17.mp4#t=145)
-
-
-- #### 2017
-
-  - Probabilistic Data Association for Semantic SLAM. [\[PDF\]](https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf)
-
-- #### 2016
-
-  - SLAM with Objects using a Nonparametric Pose Graph. [\[PDF\]](https://arxiv.org/abs/1704.05959) [\[Code\]](https://github.com/mubeipeng/objectSLAM) [\[Video\]](https://www.youtube.com/watch?v=YANUWdVLJD4&ab_channel=AerospaceControlsLab)
-
-
-### Reviews
-
-- #### 2021
-
-  - Advances in Inference and Representation for Simultaneous Localization and Mapping. [\[PDF\]](https://arxiv.org/abs/2103.05041)
-
-- #### 2020
-
-  - Semantics for Robotic Mapping, Perception and Interaction: A Survey. [\[PDF\]](https://arxiv.org/abs/2101.00443)
 
 ----------------------
 
