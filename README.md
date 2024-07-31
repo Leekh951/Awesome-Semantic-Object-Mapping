@@ -16,7 +16,8 @@
 [\[PDF\]](https://arxiv.org/pdf/2404.18331) [\[Code\]](https://github.com/intrepidChw/distributed_msckf)
   - VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks. [2024 ICRA]\
 [\[PDF\]](https://arxiv.org/pdf/2402.13609.pdf) [\[Code\]](https://github.com/yutongwangBIT/VOOM)
-
+  - ObVi-SLAM: Long-Term Object-Visual SLAM. [2024 RA-L]\
+ [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423794)[\[Code\]](https://github.com/ut-amrl/ObVi-SLAM) [\[Video\]](https://youtu.be/quJOgnEdaZ0)
 #### 2023
 
   - An Object SLAM Framework for Association, Mapping, and High-Level Tasks. [2023 T-RO]\
@@ -29,8 +30,7 @@
 [\[PDF\]](https://arxiv.org/abs/2303.14158) [\[Code\]](https://github.com/NVlabs/BundleSDF) [\[Video\]](https://www.youtube.com/watch?v=5PymzKbKv8w)
   - Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types. \
 [\[PDF\]](https://arxiv.org/pdf/2303.07872.pdf) [\[Video\]](https://www.youtube.com/watch?v=aVc4x3hsVo4)
-  - ObVi-SLAM: Long-Term Object-Visual SLAM. [2024 RA-L]\
- [\[PDF\]](https://arxiv.org/pdf/2309.15268.pdf) [\[Code\]](https://github.com/ut-amrl/ObVi-SLAM) [\[Video\]](https://youtu.be/quJOgnEdaZ0)
+
   - UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling. [arXiv] \
 [\[PDF\]](https://arxiv.org/pdf/2309.17036.pdf)
 
