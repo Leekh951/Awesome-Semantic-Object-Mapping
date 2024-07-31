@@ -26,12 +26,12 @@ By representing the 3D map with objects, it becomes easier to attribute semantic
   - An Object SLAM Framework for Association, Mapping, and High-Level Tasks. [2023 T-RO]\
 [\[PDF\]](https://arxiv.org/pdf/2305.07299.pdf)
   - QISO-SLAM: Object-Oriented SLAM Using Dual Quadrics as Landmarks Based on Instance Segmentation [2023 RA-L] \
-
+[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056983)
   - BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects. \
 [\[PDF\]](https://arxiv.org/abs/2303.14158) [\[Code\]](https://github.com/NVlabs/BundleSDF) [\[Video\]](https://www.youtube.com/watch?v=5PymzKbKv8w)
   - Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types. \
 [\[PDF\]](https://arxiv.org/pdf/2303.07872.pdf) [\[Video\]](https://www.youtube.com/watch?v=aVc4x3hsVo4)
-  - ObVi-SLAM: Long-Term Object-Visual SLAM.[2024 RA-L]\
+  - ObVi-SLAM: Long-Term Object-Visual SLAM. [2024 RA-L]\
  [\[PDF\]](https://arxiv.org/pdf/2309.15268.pdf) [\[Code\]](https://github.com/ut-amrl/ObVi-SLAM) [\[Video\]](https://youtu.be/quJOgnEdaZ0)
   - UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling. [arXiv] \
 [\[PDF\]](https://arxiv.org/pdf/2309.17036.pdf)
