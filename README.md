@@ -90,6 +90,10 @@
   - Structure Aware SLAM using Quadrics and Planes. \
 [\[PDF\]](https://arxiv.org/pdf/1804.09111.pdf) [\[Video\]](https://www.youtube.com/watch?v=dR-rB9keF8M&ab_channel=MehdiHosseinzadeh)
 
+### Semantic Scene Matching
+
+#### 2024
+#### 2023
 
 
 ----------------------
