@@ -1,8 +1,7 @@
 # Awesome Metric-Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR. Here, object states generally include object poses and object shape parameters.
-
+This repository is still under construction and will continue to be updated!
 
 ## What is Metric-Object SLAM?
 
@@ -11,7 +10,7 @@ Metric-Object Simultaneous Localization and Mapping (Metric-Object SLAM) is an a
 
 ## Papers
 
-### Parametric Object Representation (Sparse object model)
+### Parametric Object Representation 
 
 #### 2024
   - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation. [arXiv] \
@@ -60,8 +59,6 @@ Metric-Object Simultaneous Localization and Mapping (Metric-Object SLAM) is an a
 [\[PDF\]](https://arxiv.org/pdf/2110.08977.pdf) [\[Video\]](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer)
   - A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM. \
 [\[PDF\]](https://arxiv.org/pdf/2108.01225.pdf) [\[Video\]](https://www.youtube.com/watch?v=O3wzdGToh-8&ab_channel=MITMarineRoboticsGroup)
-  - BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. \
-[\[PDF\]](https://arxiv.org/pdf/2108.00516.pdf) [\[Code\]](https://github.com/wenbowen123/BundleTrack) [\[Video\]](https://www.youtube.com/watch?v=0UorLR0ADd4)
   - DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM.\
 [\[PDF\]](https://arxiv.org/pdf/2010.07820.pdf)
   - Object-Augmented RGB-D SLAM for Wide-Disparity Relocalisation.\
