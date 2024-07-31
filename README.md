@@ -1,12 +1,12 @@
-# Awesome Semantic-Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Metric-Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 This repository considers papers that optimize robot (camera) and object states based on Monocular, RGB-D, and LiDAR. Here, object states generally include object poses and object shape parameters.
 
 
-## What is Semantic-Object SLAM?
+## What is Metric-Object SLAM?
 
-
+Metric-Object Simultaneous Localization and Mapping (Metric-Object SLAM) is an advanced approach in robotics and computer vision that builds precise, object-level maps of environments while simultaneously tracking a robot's position. Unlike traditional SLAM methods that rely on feature points, Metric-Object SLAM integrates recognizable objects with their exact geometric dimensions and locations, enhancing semantic understanding and navigation accuracy. This process involves detecting and classifying objects using sensors, estimating the robot's pose, matching detected objects with those in the map, updating the map with new information, and optimizing spatial relationships for accuracy. Applications include autonomous navigation, AR/VR, and robotic manipulation, offering improved robustness and precision in complex environments.
 
 
 ## Papers
@@ -14,7 +14,9 @@ This repository considers papers that optimize robot (camera) and object states 
 ### Parametric Object Representation (Sparse object model)
 
 #### 2024
-  - Multi-Robot Object SLAM using Distributed Variational Inference. []\
+  - SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation. [arXiv] \
+[\[PDF\]](https://arxiv.org/pdf/2406.17249)
+  - Multi-Robot Object SLAM using Distributed Variational Inference. [arXiv]\
 [\[PDF\]](https://arxiv.org/pdf/2404.18331) [\[Code\]](https://github.com/intrepidChw/distributed_msckf)
   - VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks. [2024 ICRA]\
 [\[PDF\]](https://arxiv.org/pdf/2402.13609.pdf) [\[Code\]](https://github.com/yutongwangBIT/VOOM)
@@ -37,7 +39,8 @@ This repository considers papers that optimize robot (camera) and object states 
 [\[PDF\]](https://arxiv.org/pdf/2309.17036.pdf)
 
 #### 2022
-
+  - Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics. [2022 ICRA] \
+[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812162)
   - LayoutSLAM: Object Layout based Simultaneous Localization and Mapping for Reducing Object Map Distortion. \
 [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/9981492)
   - OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM. \
@@ -51,17 +54,18 @@ This repository considers papers that optimize robot (camera) and object states 
 
 
 #### 2021
-
+  - LiDAR-Based Object-Level SLAM for Autonomous Vehicles. [2021 IROS] \
+[\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636299)
   - Accurate and Robust Object SLAM With 3D Quadric Landmark Reconstruction in Outdoors. [2022 RA-L]\
- [\[PDF\]](https://arxiv.org/pdf/2110.08977.pdf) [\[Video\]](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer)
+[\[PDF\]](https://arxiv.org/pdf/2110.08977.pdf) [\[Video\]](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer)
   - A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM. \
 [\[PDF\]](https://arxiv.org/pdf/2108.01225.pdf) [\[Video\]](https://www.youtube.com/watch?v=O3wzdGToh-8&ab_channel=MITMarineRoboticsGroup)
   - BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models. \
 [\[PDF\]](https://arxiv.org/pdf/2108.00516.pdf) [\[Code\]](https://github.com/wenbowen123/BundleTrack) [\[Video\]](https://www.youtube.com/watch?v=0UorLR0ADd4)
   - DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM.\
- [\[PDF\]](https://arxiv.org/pdf/2010.07820.pdf)
+[\[PDF\]](https://arxiv.org/pdf/2010.07820.pdf)
   - Object-Augmented RGB-D SLAM for Wide-Disparity Relocalisation.\
- [\[PDF\]](https://arxiv.org/pdf/2108.02522) [\[Code\]](https://github.com/YuhangMing/Object-Guided-Relocalisation) [\[Video\]](https://www.youtube.com/watch?v=H3i9Q4JvX2o)
+[\[PDF\]](https://arxiv.org/pdf/2108.02522) [\[Code\]](https://github.com/YuhangMing/Object-Guided-Relocalisation) [\[Video\]](https://www.youtube.com/watch?v=H3i9Q4JvX2o)
 
 #### 2020
 
