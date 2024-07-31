@@ -1,7 +1,7 @@
 # Awesome Metric-Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-This repository considers papers that optimize robot (camera) and object states based on Monocular, RGB-D, and LiDAR. Here, object states generally include object poses and object shape parameters.
+This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR. Here, object states generally include object poses and object shape parameters.
 
 
 ## What is Metric-Object SLAM?
