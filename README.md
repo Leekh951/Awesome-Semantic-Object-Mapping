@@ -1,11 +1,8 @@
 # Awesome Metric-Object SLAM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR. Here, object states generally include object poses and object shape parameters.
-This repository is still under construction and will continue to be updated!
+- This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR. Here, object states generally include object poses and object shape parameters.
+- This repository is still under construction and will continue to be updated!
 
-## What is Metric-Object SLAM?
-
-Metric-Object Simultaneous Localization and Mapping (Metric-Object SLAM) is an advanced approach in robotics and computer vision that builds precise, object-level maps of environments while simultaneously tracking a robot's position. Unlike traditional SLAM methods that rely on feature points, Metric-Object SLAM integrates recognizable objects with their exact geometric dimensions and locations, enhancing semantic understanding and navigation accuracy. This process involves detecting and classifying objects using sensors, estimating the robot's pose, matching detected objects with those in the map, updating the map with new information, and optimizing spatial relationships for accuracy. Applications include autonomous navigation, AR/VR, and robotic manipulation, offering improved robustness and precision in complex environments.
 
 
 ## Papers
