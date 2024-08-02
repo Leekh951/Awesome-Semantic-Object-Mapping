@@ -36,6 +36,10 @@ This repository is still under construction and will continue to be updated!
 |:----:|:-----:|-------------|------------|
 | 2024 | RA-L | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
 | 2022 | RA-L | [Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691853) | N/A |
+| 2021 | Journal of Visual Communication and Image Representation | [Semantic loop closure detection based on graph matching in multi-objects scenes](https://www.sciencedirect.com/science/article/pii/S1047320321000389) | N/A |
+| 2021 | RA-L | [Semantic histogram based graph matching for real-time multi-robot global localization in large scale environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9353207) | N/A |
+| 2019 | ICRA | [Global localization with objectlevel semantics and topology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794475) | N/A |
+| 2019 | ICRA | [Semantic Mapping for View-Invariant Relocalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793624) | N/A |
 | 2017 | RA-L | [X-View: Graph-Based Semantic Multi-View Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281068) | N/A |
 
 ----------------------
