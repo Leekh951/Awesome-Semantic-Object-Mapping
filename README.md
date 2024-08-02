@@ -3,13 +3,18 @@
 This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR, as well as papers that perform loop closure detection through semantic scene matching. Here, object states typically include object pose and shape parameters.  
 🔥This repository is still under construction and will continue to be updated!🔥
 
-<!-- ## Table of Contents
+ ## Contents
 
 - [Papers](#papers)
-  - [Object SLAM & Parameterization](#Object-SLAM-Parameterization)
+  - [Object SLAM & Parameterization](#object-slam-parameterization)
   - [Semantic Scene Matching for Loop Closing](#semantic-scene-matching-for-loop-closing)
 - [Resources](#resources)
-  - [Datasets](#datasets) -->
+  - [Datasets](#datasets) 
+
+
+## News
+
+**`24.08.01`**  First commit! 
 
 ## Papers
 
@@ -45,7 +50,7 @@ This repository considers papers that optimize robot and object states based on 
 | `2018` | `ACCV` | [Structure Aware SLAM using Quadrics and Planes](https://arxiv.org/pdf/1804.09111) | N/A |
 
 [1]: JIRS = Journal of Intelligent & Robotic Systems 
-<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
+<p align="right">[<a href="#contents">back to table</a>]</p>
 
 ### Semantic Scene Matching for Loop closing
 
@@ -63,7 +68,7 @@ This repository considers papers that optimize robot and object states based on 
 | `2017` | `RA-L` | [X-View: Graph-Based Semantic Multi-View Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281068) | N/A |
 
 [2]: JVCIR = Journal of Visual Communication and Image Representation
-<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
+<p align="right">[<a href="#contents">back to table</a>]</p>
 
 ----------------------
 ## Resources
@@ -88,4 +93,4 @@ This repository considers papers that optimize robot and object states based on 
 | YCB-Video          | A dataset for benchmarking 6-DoF object pose estimation in video, including real and synthetic sequences of household objects.          | [YCB-Video](https://rse-lab.cs.washington.edu/projects/posecnn/) |
 | ApolloScape        | A comprehensive dataset for autonomous driving, providing annotated 2D/3D images and point clouds from real-world traffic scenarios.                               | [ApolloScape](http://apolloscape.auto/)                    |
 | Cityscapes         | A large-scale dataset for semantic urban scene understanding, featuring pixel-level annotations for various urban street scenes.                                   | [Cityscapes](https://www.cityscapes-dataset.com/)          |
-<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
+<p align="right">[<a href="#contents">back to table</a>]</p>
