@@ -16,7 +16,7 @@ This repository is still under construction and will continue to be updated!
 | `2023` | `T-RO` | [An Object SLAM Framework for Association, Mapping, and High-Level Tasks](https://arxiv.org/pdf/2305.07299.pdf) | N/A |
 | `2023` | `T-ITS` | [Object SLAM With Robust Quadric Initialization and Mapping for Dynamic Outdoors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149129) | N/A |
 | `2023` | `RA-L` | [QISO-SLAM: Object-Oriented SLAM Using Dual Quadrics as Landmarks Based on Instance Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056983) | N/A |
-| `2023` | `Journal of Intelligent & Robotic Systems` | [SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation](https://arxiv.org/pdf/2209.10817.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XiaoHan-Git/SQ-SLAM) |
+| `2023` | `JIRS` | [SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation](https://arxiv.org/pdf/2209.10817.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XiaoHan-Git/SQ-SLAM) |
 | `2023` | `ICRA` | [Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types](https://arxiv.org/pdf/2303.07872.pdf) | [![Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=aVc4x3hsVo4) |
 | `2023` | `arXiv` | [UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling](https://arxiv.org/pdf/2309.17036.pdf) | N/A |
 | `2022` | `ICRA` | [Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812162) | N/A |
@@ -28,8 +28,8 @@ This repository is still under construction and will continue to be updated!
 | `2021` | `IROS` | [LiDAR-Based Object-Level SLAM for Autonomous Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636299) | N/A |
 | `2021` | `RA-L` | [DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM](https://arxiv.org/pdf/2010.07820.pdf) | N/A |
 | `2019` | `ICRA` | [Robust Object-based SLAM for High-speed Autonomous Navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794344) | N/A |
-<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
 
+JIRS = Journal of Intelligent & Robotic Systems
 ### Semantic Scene Matching for Loop closing
 
 | Year | Venue | Paper Title | Repository |
@@ -37,13 +37,14 @@ This repository is still under construction and will continue to be updated!
 | `2024` | `RA-L` | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
 | `2022` | `RA-L` | [Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691853) | N/A |
 | `2022` | `CASE` | [Object-based Loop Closure with Directional Histogram Descriptor](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926687) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/benchun123/object-based-loop-closure?tab=readme-ov-file) |
-| `2021` | `Journal of Visual Communication and Image Representation` | [Semantic loop closure detection based on graph matching in multi-objects scenes](https://www.sciencedirect.com/science/article/pii/S1047320321000389) | N/A |
+| `2021` | `JVCIR` | [Semantic loop closure detection based on graph matching in multi-objects scenes](https://www.sciencedirect.com/science/article/pii/S1047320321000389) | N/A |
 | `2021` | `RA-L` | [Topology Aware Object-Level Semantic Mapping Towards More Robust Loop Closure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9484819) | N/A |
 | `2021` | `RA-L` | [Semantic histogram based graph matching for real-time multi-robot global localization in large scale environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9353207) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/gxytcrc/semantic-histogram-based-global-localization) |
 | `2019` | `ICRA` | [Global localization with objectlevel semantics and topology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794475) | N/A |
 | `2019` | `ICRA` | [Semantic Mapping for View-Invariant Relocalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793624) | N/A |
 | `2017` | `RA-L` | [X-View: Graph-Based Semantic Multi-View Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281068) | N/A |
 
+JVCIR = Journal of Visual Communication and Image Representation
 ----------------------
 ## Resources
 
