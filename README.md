@@ -38,6 +38,9 @@ This repository is still under construction and will continue to be updated!
 | `2021` | `RA-L` | [DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM](https://arxiv.org/pdf/2010.07820.pdf) | N/A |
 | `2021` | `arXiv` | [Superquadric Object Representation for Optimization-based Semantic SLAM](https://arxiv.org/pdf/2109.09627) | N/A |
 | `2019` | `ICRA` | [Robust Object-based SLAM for High-speed Autonomous Navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794344) | N/A |
+| `2019` | `T-RO` | [CubeSLAM: Monocular 3D Object SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8708251) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/shichaoy/cube_slam) |
+| `2018` | `RA-L` | [QuadricSLAM: Dual Quadrics as SLAM Landmarks]([https://arxiv.org/pdf/1804.04011](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575532)) | [![Code1](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/qcr/quadricslam)  [![Code2](https://img.shields.io/badge/Github-Repository-purple)](https://github.com/qcr/gtsam-quadrics)|
+
 
 [1]: JIRS = Journal of Intelligent & Robotic Systems 
 <p align="right">[<a href="#table-of-contents">back to table</a>]</p>
