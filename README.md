@@ -9,7 +9,7 @@ This repository is still under construction and will continue to be updated!
 
 | Year | Venue | Paper Title | Repository |
 |:----:|:----:|-------------|------------|
-| 2024 | arXiv | [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/pdf/2406.17249) | N/A |
+| 2024 | 'arXiv' | [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/pdf/2406.17249) | N/A |
 | 2024 | arXiv | [Multi-Robot Object SLAM using Distributed Variational Inference](https://arxiv.org/pdf/2404.18331) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/intrepidChw/distributed_msckf) |
 | 2024 | ICRA | [VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks](https://arxiv.org/pdf/2402.13609.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/yutongwangBIT/VOOM) |
 | 2024 | RA-L | [ObVi-SLAM: Long-Term Object-Visual SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423794) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/ut-amrl/ObVi-SLAM) [![Video](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/quJOgnEdaZ0) |
