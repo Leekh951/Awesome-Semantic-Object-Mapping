@@ -8,7 +8,7 @@ This repository is still under construction and will continue to be updated!
 ### Object SLAM & Parameterization
 
 | Year | Venue | Paper Title | Repository |
-|:----:|:-----:|-------------|------------|
+|:----:|:----:|-------------|------------|
 | 2024 | arXiv | [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/pdf/2406.17249) | N/A |
 | 2024 | arXiv | [Multi-Robot Object SLAM using Distributed Variational Inference](https://arxiv.org/pdf/2404.18331) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/intrepidChw/distributed_msckf) |
 | 2024 | ICRA | [VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks](https://arxiv.org/pdf/2402.13609.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/yutongwangBIT/VOOM) |
@@ -33,7 +33,7 @@ This repository is still under construction and will continue to be updated!
 ### Semantic Scene Matching for Loop closing
 
 | Year | Venue | Paper Title | Repository |
-|:----:|:-----:|-------------|------------|
+|:----:|:----:|-------------|------------|
 | 2024 | RA-L | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
 | 2022 | RA-L | [Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691853) | N/A |
 | 2021 | Journal of Visual Communication and Image Representation | [Semantic loop closure detection based on graph matching in multi-objects scenes](https://www.sciencedirect.com/science/article/pii/S1047320321000389) | N/A |
