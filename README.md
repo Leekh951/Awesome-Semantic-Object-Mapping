@@ -37,7 +37,9 @@ This repository is still under construction and will continue to be updated!
 | `2021` | `ICCV` | [ODAM: Object Detection, Association, and Mapping using Posed RGB Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9710968) | [![Code](https://img.shields.io/badge/Gitlab-Repository-blue)](https://github.com/likojack/odam)|
 | `2021` | `RA-L` | [DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM](https://arxiv.org/pdf/2010.07820.pdf) | N/A |
 | `2021` | `arXiv` | [Superquadric Object Representation for Optimization-based Semantic SLAM](https://arxiv.org/pdf/2109.09627) | N/A |
+| `2020` | `IROS` | [EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341757) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/yanmin-wu/EAO-SLAM) |
 | `2019` | `ICRA` | [Robust Object-based SLAM for High-speed Autonomous Navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794344) | N/A |
+| `2019` | `RA-L` | [Monocular Object and Plane SLAM in Structured Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8744612) | N/A |
 | `2019` | `T-RO` | [CubeSLAM: Monocular 3D Object SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8708251) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/shichaoy/cube_slam) |
 | `2019` | `RA-L` | [QuadricSLAM: Dual Quadrics From Object Detections as Landmarks in Object-Oriented SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8440105) | [![Code1](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/qcr/quadricslam)  [![Code2](https://img.shields.io/badge/Github-Repository-purple)](https://github.com/qcr/gtsam-quadrics)|
 
