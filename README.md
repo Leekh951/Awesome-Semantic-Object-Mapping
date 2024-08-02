@@ -3,6 +3,14 @@
 This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR, as well as papers that perform loop closure detection through semantic scene matching. Here, object states typically include object pose and shape parameters.  
 This repository is still under construction and will continue to be updated!
 
+## Table of Contents
+
+- [Papers](#papers)
+  - [Parametric Object Representation & Association](#Object-SLAM-Parameterization)
+  - [Semantic Scene Matching for Loop Closing](#semantic-scene-matching-for-loop-closing)
+- [Resources](#resources)
+  - [Datasets](#datasets)
+
 ## Papers
 
 ### Object SLAM & Parameterization
@@ -16,20 +24,21 @@ This repository is still under construction and will continue to be updated!
 | `2023` | `T-RO` | [An Object SLAM Framework for Association, Mapping, and High-Level Tasks](https://arxiv.org/pdf/2305.07299.pdf) | N/A |
 | `2023` | `T-ITS` | [Object SLAM With Robust Quadric Initialization and Mapping for Dynamic Outdoors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149129) | N/A |
 | `2023` | `RA-L` | [QISO-SLAM: Object-Oriented SLAM Using Dual Quadrics as Landmarks Based on Instance Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056983) | N/A |
-| `2023` | `JIRS` | [SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation](https://arxiv.org/pdf/2209.10817.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XiaoHan-Git/SQ-SLAM) |
+| `2023` | `JIRS` [1] | [SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation](https://arxiv.org/pdf/2209.10817.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XiaoHan-Git/SQ-SLAM) |
 | `2023` | `ICRA` | [Object-based SLAM utilizing unambiguous pose parameters considering general symmetry types](https://arxiv.org/pdf/2303.07872.pdf) | [![Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=aVc4x3hsVo4) |
 | `2023` | `arXiv` | [UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling](https://arxiv.org/pdf/2309.17036.pdf) | N/A |
 | `2022` | `ICRA` | [Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812162) | N/A |
 | `2022` | `IROS` | [LayoutSLAM: Object Layout based Simultaneous Localization and Mapping for Reducing Object Map Distortion](https://ieeexplore.ieee.org/abstract/document/9981492) | N/A |
-| `2022` | `ISMAR` [1] | [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](https://arxiv.org/pdf/2209.08338.pdf) | [![Code](https://img.shields.io/badge/Gitlab-Repository-blue)](https://gitlab.inria.fr/tangram/oa-slam) [![Video1](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=L1HEL4kLJ3g) [![Video2](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=50zXF7Z7FLo) |
+| `2022` | `ISMAR`  | [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](https://arxiv.org/pdf/2209.08338.pdf) | [![Code](https://img.shields.io/badge/Gitlab-Repository-blue)](https://gitlab.inria.fr/tangram/oa-slam) [![Video1](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=L1HEL4kLJ3g) [![Video2](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=50zXF7Z7FLo) |
 | `2022` | `RA-L` | [SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints](https://arxiv.org/pdf/2109.04884.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XunshanMan/SoSLAM) |
 | `2022` | `CVPR` | [Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/rpng/suo_slam) |
 | `2022` | `RA-L` | [Accurate and Robust Object SLAM With 3D Quadric Landmark Reconstruction in Outdoors](https://arxiv.org/pdf/2110.08977.pdf) | [![Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer) |
 | `2021` | `IROS` | [LiDAR-Based Object-Level SLAM for Autonomous Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636299) | N/A |
 | `2021` | `RA-L` | [DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM](https://arxiv.org/pdf/2010.07820.pdf) | N/A |
 | `2019` | `ICRA` | [Robust Object-based SLAM for High-speed Autonomous Navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794344) | N/A |
-<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
+
 [1]: JIRS = Journal of Intelligent & Robotic Systems 
+<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
 
 ### Semantic Scene Matching for Loop closing
 
@@ -44,8 +53,9 @@ This repository is still under construction and will continue to be updated!
 | `2019` | `ICRA` | [Global localization with objectlevel semantics and topology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794475) | N/A |
 | `2019` | `ICRA` | [Semantic Mapping for View-Invariant Relocalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793624) | N/A |
 | `2017` | `RA-L` | [X-View: Graph-Based Semantic Multi-View Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281068) | N/A |
-<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
+
 [2]: JVCIR = Journal of Visual Communication and Image Representation
+<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
 
 ----------------------
 ## Resources
