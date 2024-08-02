@@ -5,7 +5,7 @@ This repository is still under construction and will continue to be updated!
 
 ## Papers
 
-### Parametric Object Representation & Association
+### Object SLAM & Parameterization
 
 | Year | Venue | Paper Title | Repository |
 |:----:|:-----:|-------------|------------|
