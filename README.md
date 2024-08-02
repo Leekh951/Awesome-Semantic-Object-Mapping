@@ -1,4 +1,4 @@
-# Awesome Metric-Object Representation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Semantic-Object Mapping [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR, as well as papers that perform loop closure detection through semantic scene matching. Here, object states typically include object pose and shape parameters.  
 This repository is still under construction and will continue to be updated!
@@ -32,12 +32,11 @@ This repository is still under construction and will continue to be updated!
 
 <p align="right">[<a href="#table-of-contents">back to table</a>]</p>
 
+### Semantic Scene Matching for Loop closing
 
-
-
-
-
-
+| Year | Venue | Paper Title | Repository |
+|:----:|:-----:|-------------|------------|
+| 2024 | arXiv | [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/pdf/2406.17249) | N/A |
 
 
 
