@@ -36,7 +36,7 @@ This repository is still under construction and will continue to be updated!
 
 | Year | Venue | Paper Title | Repository |
 |:----:|:-----:|-------------|------------|
-| 2024 | arXiv | [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/pdf/2406.17249) | N/A |
+| 2024 | arXiv | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
 
 
 
