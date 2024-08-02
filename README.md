@@ -3,10 +3,10 @@
 This repository considers papers that optimize robot and object states based on Monocular, RGB-D, and LiDAR, as well as papers that perform loop closure detection through semantic scene matching. Here, object states typically include object pose and shape parameters.  
 🔥This repository is still under construction and will continue to be updated!🔥
 
- ## Contents
+## Contents
 
 - [Papers](#papers)
-  - [Object SLAM & Parameterization](#object-slam-parameterization)
+  - [Object SLAM & Parameterization](#object-slam--parameterization)
   - [Semantic Scene Matching for Loop Closing](#semantic-scene-matching-for-loop-closing)
 - [Resources](#resources)
   - [Datasets](#datasets) 
