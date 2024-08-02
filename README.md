@@ -52,6 +52,7 @@ This repository is still under construction and will continue to be updated!
 | Year | Venue | Paper Title | Repository |
 |:----:|:----:|-------------|------------|
 | `2024` | `RA-L` | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
+| `2023` | `arXiv` | [Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency](https://arxiv.org/pdf/2304.05146) | N/A |
 | `2022` | `RA-L` | [Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691853) | N/A |
 | `2022` | `CASE` | [Object-based Loop Closure with Directional Histogram Descriptor](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926687) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/benchun123/object-based-loop-closure?tab=readme-ov-file) |
 | `2021` | `JVCIR` [2] | [Semantic loop closure detection based on graph matching in multi-objects scenes](https://www.sciencedirect.com/science/article/pii/S1047320321000389) | N/A |
