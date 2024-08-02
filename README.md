@@ -21,7 +21,7 @@ This repository is still under construction and will continue to be updated!
 | `2023` | `arXiv` | [UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling](https://arxiv.org/pdf/2309.17036.pdf) | N/A |
 | `2022` | `ICRA` | [Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812162) | N/A |
 | `2022` | `IROS` | [LayoutSLAM: Object Layout based Simultaneous Localization and Mapping for Reducing Object Map Distortion](https://ieeexplore.ieee.org/abstract/document/9981492) | N/A |
-| `2022` | `ISMAR` | [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](https://arxiv.org/pdf/2209.08338.pdf) | [![Code](https://img.shields.io/badge/Gitlab-Repository-blue)](https://gitlab.inria.fr/tangram/oa-slam) [![Video1](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=L1HEL4kLJ3g) [![Video2](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=50zXF7Z7FLo) |
+| `2022` | `ISMAR` [1] | [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](https://arxiv.org/pdf/2209.08338.pdf) | [![Code](https://img.shields.io/badge/Gitlab-Repository-blue)](https://gitlab.inria.fr/tangram/oa-slam) [![Video1](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=L1HEL4kLJ3g) [![Video2](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=50zXF7Z7FLo) |
 | `2022` | `RA-L` | [SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints](https://arxiv.org/pdf/2109.04884.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XunshanMan/SoSLAM) |
 | `2022` | `CVPR` | [Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/rpng/suo_slam) |
 | `2022` | `RA-L` | [Accurate and Robust Object SLAM With 3D Quadric Landmark Reconstruction in Outdoors](https://arxiv.org/pdf/2110.08977.pdf) | [![Video](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=t1KQ8FhO0wo&ab_channel=SLAMer) |
@@ -29,7 +29,8 @@ This repository is still under construction and will continue to be updated!
 | `2021` | `RA-L` | [DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM](https://arxiv.org/pdf/2010.07820.pdf) | N/A |
 | `2019` | `ICRA` | [Robust Object-based SLAM for High-speed Autonomous Navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794344) | N/A |
 <p align="right">[<a href="#table-of-contents">back to table</a>]</p>
-JIRS = Journal of Intelligent & Robotic Systems JVCIR = Journal of Visual Communication and Image Representation
+[1]: JIRS = Journal of Intelligent & Robotic Systems 
+
 ### Semantic Scene Matching for Loop closing
 
 | Year | Venue | Paper Title | Repository |
@@ -37,14 +38,15 @@ JIRS = Journal of Intelligent & Robotic Systems JVCIR = Journal of Visual Commun
 | `2024` | `RA-L` | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
 | `2022` | `RA-L` | [Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691853) | N/A |
 | `2022` | `CASE` | [Object-based Loop Closure with Directional Histogram Descriptor](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9926687) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/benchun123/object-based-loop-closure?tab=readme-ov-file) |
-| `2021` | `JVCIR` | [Semantic loop closure detection based on graph matching in multi-objects scenes](https://www.sciencedirect.com/science/article/pii/S1047320321000389) | N/A |
+| `2021` | `JVCIR` [2] | [Semantic loop closure detection based on graph matching in multi-objects scenes](https://www.sciencedirect.com/science/article/pii/S1047320321000389) | N/A |
 | `2021` | `RA-L` | [Topology Aware Object-Level Semantic Mapping Towards More Robust Loop Closure](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9484819) | N/A |
 | `2021` | `RA-L` | [Semantic histogram based graph matching for real-time multi-robot global localization in large scale environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9353207) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/gxytcrc/semantic-histogram-based-global-localization) |
 | `2019` | `ICRA` | [Global localization with objectlevel semantics and topology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794475) | N/A |
 | `2019` | `ICRA` | [Semantic Mapping for View-Invariant Relocalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793624) | N/A |
 | `2017` | `RA-L` | [X-View: Graph-Based Semantic Multi-View Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281068) | N/A |
 <p align="right">[<a href="#table-of-contents">back to table</a>]</p>
-JVCIR = Journal of Visual Communication and Image Representation
+[2]: JVCIR = Journal of Visual Communication and Image Representation
+
 ----------------------
 ## Resources
 
