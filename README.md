@@ -28,8 +28,8 @@ This repository is still under construction and will continue to be updated!
 | `2021` | `IROS` | [LiDAR-Based Object-Level SLAM for Autonomous Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636299) | N/A |
 | `2021` | `RA-L` | [DynaSLAM II: Tightly-Coupled Multi-Object Tracking and SLAM](https://arxiv.org/pdf/2010.07820.pdf) | N/A |
 | `2019` | `ICRA` | [Robust Object-based SLAM for High-speed Autonomous Navigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794344) | N/A |
-
-JIRS = Journal of Intelligent & Robotic Systems
+<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
+JIRS = Journal of Intelligent & Robotic Systems JVCIR = Journal of Visual Communication and Image Representation
 ### Semantic Scene Matching for Loop closing
 
 | Year | Venue | Paper Title | Repository |
@@ -43,7 +43,7 @@ JIRS = Journal of Intelligent & Robotic Systems
 | `2019` | `ICRA` | [Global localization with objectlevel semantics and topology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794475) | N/A |
 | `2019` | `ICRA` | [Semantic Mapping for View-Invariant Relocalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793624) | N/A |
 | `2017` | `RA-L` | [X-View: Graph-Based Semantic Multi-View Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281068) | N/A |
-
+<p align="right">[<a href="#table-of-contents">back to table</a>]</p>
 JVCIR = Journal of Visual Communication and Image Representation
 ----------------------
 ## Resources
