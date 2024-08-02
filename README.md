@@ -17,7 +17,7 @@ This repository is still under construction and will continue to be updated!
 
 | Year | Venue | Paper Title | Repository |
 |:----:|:-----:|-------------|------------|
-| `2024` | `arXiv` | [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/pdf/2406.17249) | N/A |
+| `2024` | `arXiv` | [SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation](https://arxiv.org/pdf/2406.17249) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XuRobotics/slide-slam) |
 | `2024` | `arXiv` | [Multi-Robot Object SLAM using Distributed Variational Inference](https://arxiv.org/pdf/2404.18331) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/intrepidChw/distributed_msckf) |
 | `2024` | `ICRA` | [VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks](https://arxiv.org/pdf/2402.13609.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/yutongwangBIT/VOOM) |
 | `2024` | `RA-L` | [ObVi-SLAM: Long-Term Object-Visual SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10423794) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/ut-amrl/ObVi-SLAM) |
@@ -30,7 +30,7 @@ This repository is still under construction and will continue to be updated!
 | `2022` | `ICRA` | [Unified Representation of Geometric Primitives for Graph-SLAM Optimization Using Decomposed Quadrics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812162) | N/A |
 | `2022` | `IROS` | [LayoutSLAM: Object Layout based Simultaneous Localization and Mapping for Reducing Object Map Distortion](https://ieeexplore.ieee.org/abstract/document/9981492) | N/A |
 | `2022` | `ISMAR`  | [OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM](https://arxiv.org/pdf/2209.08338.pdf) | [![Code](https://img.shields.io/badge/Gitlab-Repository-blue)](https://gitlab.inria.fr/tangram/oa-slam) |
-| `2022` | `RA-L` | [SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints](https://arxiv.org/pdf/2109.04884.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XunshanMan/SoSLAM) |
+| `2022` | `RA-L` | [SO-SLAM: Semantic Object SLAM with Scale Proportional and Symmetrical Texture Constraints](https://arxiv.org/pdf/2109.04884.pdf) | [![Code1](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/XunshanMan/SoSLAM) | [![Code2-unofficial](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/MRHan-426/SOSLAM)|
 | `2022` | `CVPR` | [Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Merrill_Symmetry_and_Uncertainty-Aware_Object_SLAM_for_6DoF_Object_Pose_Estimation_CVPR_2022_paper.pdf) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/rpng/suo_slam) |
 | `2022` | `RA-L` | [Accurate and Robust Object SLAM With 3D Quadric Landmark Reconstruction in Outdoors](https://arxiv.org/pdf/2110.08977.pdf)  | N/A |
 | `2021` | `IROS` | [LiDAR-Based Object-Level SLAM for Autonomous Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636299) | N/A |
