@@ -42,7 +42,7 @@ This repository is still under construction and will continue to be updated!
 | `2019` | `RA-L` | [Monocular Object and Plane SLAM in Structured Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8744612) | N/A |
 | `2019` | `T-RO` | [CubeSLAM: Monocular 3D Object SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8708251) | [![Code](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/shichaoy/cube_slam) |
 | `2019` | `RA-L` | [QuadricSLAM: Dual Quadrics From Object Detections as Landmarks in Object-Oriented SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8440105) | [![Code1](https://img.shields.io/badge/Github-Repository-blue)](https://github.com/qcr/quadricslam)  [![Code2](https://img.shields.io/badge/Github-Repository-purple)](https://github.com/qcr/gtsam-quadrics)|
-
+| `2018` | `ACCV` | [Structure Aware SLAM using Quadrics and Planes](https://arxiv.org/pdf/1804.09111) | N/A |
 
 [1]: JIRS = Journal of Intelligent & Robotic Systems 
 <p align="right">[<a href="#table-of-contents">back to table</a>]</p>
