@@ -6,7 +6,7 @@ This repository is still under construction and will continue to be updated!
 ## Table of Contents
 
 - [Papers](#papers)
-  - [Parametric Object Representation & Association](#Object-SLAM-Parameterization)
+  - [Object SLAM & Parameterization](#Object-SLAM-Parameterization)
   - [Semantic Scene Matching for Loop Closing](#semantic-scene-matching-for-loop-closing)
 - [Resources](#resources)
   - [Datasets](#datasets)
