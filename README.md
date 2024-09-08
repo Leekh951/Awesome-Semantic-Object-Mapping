@@ -51,9 +51,9 @@ This repository considers papers that optimize robot and object states based on 
 
 [1]: JIRS = Journal of Intelligent & Robotic Systems 
 <p align="right">[<a href="#contents">back to table</a>]</p>
-%
-### Semantic Scene Matching for Loop closing
-%
+
+### Semantic Scene Matching 
+
 | Year | Venue | Paper Title | Repository |
 |:----:|:----:|-------------|------------|
 | `2024` | `RA-L` | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
@@ -66,7 +66,7 @@ This repository considers papers that optimize robot and object states based on 
 | `2019` | `ICRA` | [Global localization with objectlevel semantics and topology](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794475) | N/A |
 | `2019` | `ICRA` | [Semantic Mapping for View-Invariant Relocalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793624) | N/A |
 | `2017` | `RA-L` | [X-View: Graph-Based Semantic Multi-View Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281068) | N/A |
-%
+
 [2]: JVCIR = Journal of Visual Communication and Image Representation
 <p align="right">[<a href="#contents">back to table</a>]</p>
 
