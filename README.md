@@ -52,10 +52,11 @@ This repository considers papers that optimize robot and object states based on 
 [1]: JIRS = Journal of Intelligent & Robotic Systems 
 <p align="right">[<a href="#contents">back to table</a>]</p>
 
-### Semantic Scene Matching 
+### Semantic Scene & Correspondence Matching 
 
 | Year | Venue | Paper Title | Repository |
 |:----:|:----:|-------------|------------|
+| `2024` | `RA-L` | [CLIP-Clique: Graph-Based Correspondence  Matching Augmented by Vision Language  Models for Object-Based  Global Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10705086)| N/A |
 | `2024` | `RA-L` | [SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10460989) | N/A |
 | `2023` | `arXiv` | [Loop Closure Detection Based on Object-level Spatial Layout and Semantic Consistency](https://arxiv.org/pdf/2304.05146) | N/A |
 | `2022` | `RA-L` | [Towards Accurate Loop Closure Detection in Semantic SLAM With 3D Semantic Covisibility Graphs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9691853) | N/A |
